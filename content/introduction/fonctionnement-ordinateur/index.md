@@ -4,7 +4,7 @@ weight = 1
 +++
 
 Un ordinateur est une machine capable d'exécuter des **programmes** pour traiter
-des **informations**. Pour celà, il a besoin de plusieurs composants :
+des **informations**. Pour cela, il a besoin de plusieurs composants :
 
 - un **processeur** qui décode les instructions du programme et les exécute ;
 - de la **mémoire vive** qui permet de stocker des informations, qui pourront être écrites ou lues ;
